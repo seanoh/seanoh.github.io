@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1464905133037">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1464905264000">
   <folder name="css">
     <file name="site_global.css" crc="4091887897"/>
     <file name="index.css" crc="277829040" ref="index"/>
@@ -35,5 +35,5 @@
     <file name="screen shot 2016-06-02 at 54526 pm.jpg" crc="484053459" ref="index"/>
     <file name="screen shot 2016-06-02 at 54526 pm_2x.jpg" crc="264285537" ref="index"/>
   </folder>
-  <file name="index.html" crc="75537732" mt="1464905124196" redirect="true"/>
+  <file name="index.html" crc="3899216985" mt="1464905124196" redirect="true"/>
 </manifest>
