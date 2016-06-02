@@ -1,0 +1,41 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x,2x" timestamp="1464904595806">
+  <folder name="css">
+    <file name="site_global.css" crc="4091887897"/>
+    <file name="index.css" crc="3804405140" ref="index"/>
+    <file name="iefonts_index.css" crc="3804976006" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
+    <file name="museutils.js" crc="3793461109" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3843766759" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="172766474" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-2 copy577x169.png" crc="185281670" ref="index"/>
+    <file name="logo-2 copy577x169_2x.png" crc="3825004083" ref="index"/>
+    <file name="screen shot 2016-06-02 at 50730 pm (2).jpg" crc="4172132630" ref="index"/>
+    <file name="logo-2 copy-u494.png" crc="3933553790" ref="index"/>
+    <file name="logo-2 copy-u494_2x.png" crc="4195749644" ref="index"/>
+    <file name="opening_11-crop-u511.jpg" crc="4208756661" ref="index"/>
+    <file name="opening_11-crop-u511_2x.jpg" crc="4230746314" ref="index"/>
+    <file name="icon.png" crc="4010347548" ref="index"/>
+    <file name="icon_2x.png" crc="4150450271" ref="index"/>
+    <file name="floweropen.png" crc="3924975409" ref="index"/>
+    <file name="floweropen_2x.png" crc="320093949" ref="index"/>
+    <file name="screen shot 2016-06-02 at 44701 pm (2).jpg" crc="210960793" ref="index"/>
+    <file name="screen shot 2016-06-02 at 44701 pm (2)_2x.jpg" crc="4164249515" ref="index"/>
+    <file name="screen shot 2016-06-02 at 53948 pm.jpg" crc="51576900" ref="index"/>
+    <file name="screen shot 2016-06-02 at 53948 pm_2x.jpg" crc="4194238925" ref="index"/>
+    <file name="gemcount_4.png" crc="101944293" ref="index"/>
+    <file name="gemcount_4_2x.png" crc="61326761" ref="index"/>
+    <file name="3.jpg" crc="355508183" ref="index"/>
+    <file name="unnamed-u370-fr.jpg" crc="391175233" ref="index"/>
+    <file name="screen shot 2016-06-02 at 54455 pm.jpg" crc="3921600192" ref="index"/>
+    <file name="screen shot 2016-06-02 at 54455 pm_2x.jpg" crc="333055310" ref="index"/>
+    <file name="screen shot 2016-06-02 at 54526 pm.jpg" crc="484053459" ref="index"/>
+    <file name="screen shot 2016-06-02 at 54526 pm_2x.jpg" crc="264285537" ref="index"/>
+  </folder>
+  <file name="index.html" crc="514914716" mt="1464904536203" redirect="true"/>
+</manifest>
